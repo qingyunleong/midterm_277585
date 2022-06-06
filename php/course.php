@@ -55,7 +55,7 @@ function truncate($string, $length, $dots = "...")
     <div class="w3-sidebar w3-bar-block w3-border-right" style="display:none" id="mySidebar">
         <button onclick="w3_close()" class="w3-bar-item w3-button w3-large"><i class="fa fa-remove w3-right"></i></button>
 
-        <a href="index.php" class="w3-bar-item w3-button"><i class="fa fa-graduation-cap fa-fw w3-margin-right"></i>Courses</a>
+        <a href="course.php" class="w3-bar-item w3-button"><i class="fa fa-graduation-cap fa-fw w3-margin-right"></i>Courses</a>
         <a href="tutor.php" class="w3-bar-item w3-button"><i class="fa fa-institution fa-fw w3-margin-right"></i>Tutors</a>
         <a href="#" class="w3-bar-item w3-button"><i class="fa fa-book fa-fw w3-margin-right"></i>Subscription</a>
         <a href="profile.php" class="w3-bar-item w3-button"><i class="fa fa-user-circle fa-fw w3-margin-right"></i>Profile</a>
