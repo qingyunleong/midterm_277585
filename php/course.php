@@ -125,7 +125,7 @@ function truncate($string, $length, $dots = "...")
         echo "<div class='w3-container w3-row'>";
         echo "<center>";
         for ($page = 1; $page <= $number_of_page; $page++) {
-            echo '<a href = "index.php?pageno=' . $page . '" style=
+            echo '<a href = "course.php?pageno=' . $page . '" style=
             "text-decoration: none">&nbsp&nbsp' . $page . ' </a>';
         }
         echo " ( " . $pageno . " )";
